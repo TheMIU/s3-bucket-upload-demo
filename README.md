@@ -12,3 +12,8 @@
 * Full doc: https://docs.google.com/document/d/1BlaH6y3jqlMsP3GEEsQmgAamQxo9KAMxabfm8gxiWS8
 
 ### 3. Run python file
+
+
+---
+🔗 Quickstart - Boto3 1.34.131 documentation : https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html <br>
+🔗 Uploading files - Boto3 1.34.131 documentation : https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html
